@@ -1,3 +1,0 @@
-# Ascalon website
-
-TODO
