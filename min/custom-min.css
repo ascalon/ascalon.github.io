@@ -11,7 +11,7 @@
 }
 
 #intro,
-#team {
+#carrieres {
     padding-top: 4rem
 }
 
@@ -87,7 +87,7 @@
 }
 
 #technologies,
-#team {
+#carrieres {
     background: rgb(247, 247, 247)
 }
 
@@ -307,6 +307,6 @@ nav a.button-collapse {
     max-height: 400px
 }
 
-footer.page-footer {
+footer {
     margin-top: 0px !important
 }
