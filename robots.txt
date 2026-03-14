@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Host: ascalon.fr
+Sitemap: https://ascalon.fr/sitemap.xml
